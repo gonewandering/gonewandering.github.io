@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Gone Wandering (again)"
 date:   2014-10-09 08:40:10
-categories: jekyll update
+categories: update tldr
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Thanks for visiting Gone Wandering. This is my personal blog, and will hold a combination of tech, travel, and design posts that I've done, and will do in the coming months (and years). 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I've owned gonewandering.com since 2004, and during that time, it's held over a dozen iterations on this site. Each lasts (usually through a specific adventure) and then comes down. This time I'll try to round up my posts from throughout time and maintain an ongoing index of my misadventures.
 
-Jekyll also offers powerful support for code snippets:
+Hope you enjoy, and let me know if you have thoughts or ideas. I'm always open to those.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Lindsay
