@@ -1,0 +1,12 @@
+# Site settings
+title: Gonewandering
+email: ls@gonewandering.com
+description: > # this means to ignore newlines until "baseurl:"
+  My musings, complaints, and thoughts on travel, technology, and design. -- Lindsay Silver
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gonewandering.com" # the base hostname & protocol for your site
+twitter_username: gonewandering
+github_username:  lgsilver
+
+# Build settings
+markdown: kramdown

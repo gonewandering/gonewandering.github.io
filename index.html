@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="container post-list">
+    {% for post in site.posts %}
+    <div class="row post">
+        <div class="col-xs-12">
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <p>{{ post.excerpt }}</p>
+            <small class="meta">{{ post.date | date: "%b %-d, %Y" }} in {{ post.categories | | array_to_sentence_string }}</small>
+        </div>
+    </div>
+    {% endfor %}
+</div>

@@ -1,0 +1,77 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+body { 
+	font-family: 'Times New Roman' sans-serif;
+	font-weight: 300;
+	font-size: 1.8em;
+	line-height: 1.4em;
+}
+
+a { 
+	color: rgba(0,0,0,.8);
+}
+
+a:hover { 
+	color: rgba(0,0,0,.6);
+	text-decoration: none;
+}
+
+.container { 
+	max-width: 900px;
+}
+
+h1,h2,h3,h4,h5 { 
+	font-family: 'Times New Roman' sans-serif;
+	font-weight: 400;
+	color: rgba(0,0,0,.75);
+}
+
+.right { 
+	text-align: right;
+}
+
+.center { 
+	text-align: center;
+}
+
+header.page { 
+	margin-top: 60px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: double 5px rgba(0,0,0,.5);
+	h1 { 
+		margin: 0;
+		padding: 0;
+		margin-bottom: 6px
+	}
+	p { 
+		font-style: italic;
+	}
+	.brand-img { 
+		margin-bottom: 20px;
+		img { 
+			width: 120px;
+		}
+	}	
+}
+
+footer.page { 
+	text-align: center;
+	border-top: double 5px rgba(0,0,0,.5);
+	margin-top: 20px;
+	padding-top: 20px;
+	margin-bottom: 60px;
+	font-style: italic;
+}
+
+.post-list {
+	.post { 
+		.meta { 
+			font-weight: bold;
+			font-style: italic;
+		}
+	}
+}
