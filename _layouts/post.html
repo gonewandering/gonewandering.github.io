@@ -3,14 +3,14 @@ layout: default
 ---
 <div class="post container">
     <div class="row">
-        <div class="col-xs-12">
+        <div class="col-xs-12 post-detail">
             <header class="post-header">
                 <h2 class="post-title">{{ page.title }}</h2>
-                <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
             </header>
             <article class="post-content">
             {{ content }}
             </article>
+            <small class="meta">{{ page.location }} / {{ page.date | date: "%b %-d, %Y" }} in {{ page.categories | array_to_sentence_string }}</small>
         </div>
     </div>
 </div>

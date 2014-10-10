@@ -3,6 +3,7 @@ layout: post
 title:  "The Seven Minute Workout App"
 date:   2013-07-15 08:40:10
 categories: making
+location: San Francisco
 ---
 
 First of all, I did not come up with this workout. I got all of my information from a NY Times article (link), that in turn got the idea from the American Journal of Sports Medicine. The real kudos go to them. 

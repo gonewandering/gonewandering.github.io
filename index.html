@@ -9,8 +9,8 @@ layout: default
             <h2>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-            <p>{{ post.excerpt }}</p>
-            <small class="meta">{{ post.date | date: "%b %-d, %Y" }} in {{ post.categories | | array_to_sentence_string }}</small>
+            <article>{{ post.excerpt }}</article>
+            <small class="meta">{{ post.location }} / {{ post.date | date: "%b %-d, %Y" }} in {{ post.categories | | array_to_sentence_string }}</small>
         </div>
     </div>
     {% endfor %}

@@ -3,6 +3,7 @@ layout: post
 title:  "Friction"
 date:   2014-01-26 08:40:10
 categories: UI/UX
+location: San Francisco
 ---
 
 

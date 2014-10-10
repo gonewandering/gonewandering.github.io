@@ -3,6 +3,7 @@ layout: post
 title:  "Life is an MVP"
 date:   2013-04-05 08:40:10
 categories: life
+location: San Francisco
 ---
 I have a good friend who is doing his first startup. He is ambitious, young, and willing to do anything for his idea. He’s taking huge risks. He has no savings, has lived for a year on credit cards and top ramen, and is going to keep going until he makes this work, or dies. He doesn’t understand risk.
 

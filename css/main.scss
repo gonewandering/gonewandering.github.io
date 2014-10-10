@@ -67,6 +67,10 @@ footer.page {
 	font-style: italic;
 }
 
+.meta { 
+	font-weight: bold;
+	font-style: italic;
+}
 .post-list {
 	.post { 
 		margin-top: 30px;
@@ -74,13 +78,16 @@ footer.page {
 		h2 {
 			margin: 0;
 			padding: 0;
-		}
-		.meta { 
-			font-weight: bold;
-			font-style: italic;
+			margin-bottom: 14px;
 		}
 	}
 
 	.post:first-child { margin-top: 0; }
 	.post:last-child { margin-bottom: 0; }
+}
+
+.post-detail { 
+	h2 { 
+		margin-bottom: 14px;
+	}
 }
