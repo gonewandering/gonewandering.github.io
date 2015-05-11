@@ -5,7 +5,6 @@ date:   2008-07-16 08:40:10
 categories: travel
 location: Kigali, Rwanda
 ---
-
 Just a short note. Sorry I haven't updated this more often. I've been so busy meeting with UN staff, typing reports etc., that I haven't gotten around to it.
 
 I went to a very small, very local, bar last night to get a drink. It was really interesting to sit among all of the Rwandans there and watch them interact. Once they'd gotten used to my presence they went back to conversations, arguments, and discussions in Kinyarwanda. I couldn't help but wonder who in that bar was hutu and who was tutsi; if anyone there had killed during the genocide; and which of the patrons had lost close family and friends.
