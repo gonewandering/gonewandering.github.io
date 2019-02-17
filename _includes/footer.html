@@ -9,3 +9,20 @@
         </div>
     </div>
 </footer>
+
+
+
+<script>
+  var sensor = {
+    sid: "NNEEVSB9",
+    oid: "ZZ4TGD24"
+  }
+
+  sensor.dim0 = "pageview";
+  sensor.dim1 = window.location.href;
+
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.open("POST", "https://us-central1-monarch-data.cloudfunctions.net/sensor-http");
+  xmlhttp.setRequestHeader("Content-Type", "application/json");
+  xmlhttp.send(JSON.stringify(sensor));
+</script>
