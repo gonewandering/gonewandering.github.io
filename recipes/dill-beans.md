@@ -1,12 +1,10 @@
 ---
-layout: recipe
+layout: post
 title:  "Pickled Dill Beans"
 date:   2020-05-01 08:40:10
 categories: recipes
 location: Santa Rosa, CA
 ---
-
-PICKLED DILL BEANS
 Makes 4 pints
 
 In each of hot sterile pints jar put
