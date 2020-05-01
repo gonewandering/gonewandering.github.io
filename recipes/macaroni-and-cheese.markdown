@@ -1,9 +1,7 @@
 ---
-layout: post
-title:  "Mom's Macaroni & Cheese"
-date:   2020-05-01 08:40:10
-categories: recipes
-location: Santa Rosa, CA
+layout: page
+title: "Mom's Macaroni & Cheese"
+permalink: /recipes/mac-and-cheese/
 ---
 8 oz elbow macaroni
 1/2 tsp salt

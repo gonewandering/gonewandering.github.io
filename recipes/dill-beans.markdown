@@ -1,9 +1,7 @@
 ---
-layout: post
-title:  "Pickled Dill Beans"
-date:   2020-05-01 08:40:10
-categories: recipes
-location: Santa Rosa, CA
+layout: page
+title: "Pickled Dill Beans"
+permalink: /recipes/dill-beans/
 ---
 Makes 4 pints
 

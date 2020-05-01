@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Grandma Halka's Patented Macaroni Italiano"
-date:   2020-05-01 08:40:10
-categories: recipes
-location: Santa Rosa, CA
+permalink: /recipes/macaroni-italiano/
 ---
 8 oz elbow macaroni
 2 large cloves garlic, minced

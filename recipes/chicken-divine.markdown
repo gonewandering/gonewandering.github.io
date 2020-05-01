@@ -1,9 +1,7 @@
 ---
-layout: post
-title:  "Curried Chicken Divine"
-date:   2020-05-01 08:40:10
-categories: recipes
-location: Santa Rosa, CA
+layout: page
+title: "Curried Chicken Divine"
+permalink: /recipes/curried-chicken-divine/
 ---
 Cook 3 chicken breasts by whatever means. If you boil them, add carrots, onion, celery, peppercorns, and bay leaf and then you will have a nice chicken stock to use later.
 

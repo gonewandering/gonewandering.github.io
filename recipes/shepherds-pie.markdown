@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Shepherd's Pie - Druidic Edition"
-date:   2020-05-01 08:40:10
-categories: recipes
-location: Santa Rosa, CA
+permalink: /recipes/shepherds-pie/
 ---
 Pardon the lapse In response to your query concerning the ancient family recipe for Shepherd’s Pie. I had to contact my Druid Masters to see if it is time to reveal to the next generation the secret source of the Silver Family power and uncanny luck. Unfortunately the WiFi at Stonehenge is spotty so sometimes it takes a while to get a reply.
 
