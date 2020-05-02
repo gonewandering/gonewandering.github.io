@@ -3,6 +3,8 @@ layout: page
 title: "Mom's Macaroni & Cheese"
 permalink: /recipes/mac-and-cheese/
 ---
+Ingredients:
+
 8 oz elbow macaroni
 1/2 tsp salt
 3 Tbsp butter
@@ -25,4 +27,4 @@ While macaroni is draining, add the cheese bit by bit to the sauce, stirring gen
 
 Mix the drained macaroni with the sauce and pour into a buttered oven-proof 8” x 8” serving dish. Sprinkle breadcrumbs on top. For extra richness, toss the breadcrumbs with a tablespoon of melted butter before putting them on the macaroni—they brown nicely this way.
 
- Bake 25 minutes until bubbly. Remove from oven and let sit five minutes before serving. This is exceptionally great with a good green salad with vinaigrette dressing, and brownies for dessert!
+Bake 25 minutes until bubbly. Remove from oven and let sit five minutes before serving. This is exceptionally great with a good green salad with vinaigrette dressing, and brownies for dessert!

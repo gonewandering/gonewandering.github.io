@@ -3,15 +3,17 @@ layout: page
 title:  "Grandma Halka's Patented Macaroni Italiano"
 permalink: /recipes/macaroni-italiano/
 ---
-8 oz elbow macaroni
-2 large cloves garlic, minced
-1-2 onions, chopped
-1-2 tsp oregano
-1/2 tsp thyme
-1-2 green peppers, chopped
-1 pound lean ground beef
-1 cup shredded parmesan cheese
-1 large can diced tomatoes (28 oz), or more
+Ingredients:
+
+- 8 oz elbow macaroni
+- 2 large cloves garlic, minced
+- 1-2 onions, chopped
+- 1-2 tsp oregano
+- 1/2 tsp thyme
+- 1-2 green peppers, chopped
+- 1 pound lean ground beef
+- 1 cup shredded parmesan cheese
+- 1 large can diced tomatoes (28 oz), or more
 
 Break up the ground beef into a Dutch oven or large frying pan sprayed with olive oil and begin browning over medium-high heat, adding the minced garlic and chopped onions, oregano, and thyme. When all the meat is just about brown and the onions transparent, stir in the chopped green pepper and the can of tomatoes.  This panload should smell really good. Continue cooking until the green pepper is just limp, still bright green.
 

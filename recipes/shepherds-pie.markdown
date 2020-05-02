@@ -1,32 +1,32 @@
 ---
-layout: post
+layout: page
 title:  "Shepherd's Pie - Druidic Edition"
 permalink: /recipes/shepherds-pie/
 ---
 Pardon the lapse In response to your query concerning the ancient family recipe for Shepherd’s Pie. I had to contact my Druid Masters to see if it is time to reveal to the next generation the secret source of the Silver Family power and uncanny luck. Unfortunately the WiFi at Stonehenge is spotty so sometimes it takes a while to get a reply.
 
- Normally the passing on of the recipe involves the initiate being staked down on a pentagram drawn in the mud of a pig sty, ravens claws, a goats head, mouse droppings, a candle made of toad fat, a hummingbird spleen and a number of other unpleasant things that we’ll get to in the ingredients section. However the Druid Council understands these are extraordinary times and are willing to streamline the process as they did during the Black Plague, the Great Influenza Pandemic and the creation of Twitter.
+Normally the passing on of the recipe involves the initiate being staked down on a pentagram drawn in the mud of a pig sty, ravens claws, a goats head, mouse droppings, a candle made of toad fat, a hummingbird spleen and a number of other unpleasant things that we’ll get to in the ingredients section. However the Druid Council understands these are extraordinary times and are willing to streamline the process as they did during the Black Plague, the Great Influenza Pandemic and the creation of Twitter.
 
 Here, then, is that which many men have sought but few have attained and fewer still could control the power and the wind contained in this majestic dish.
 
 Ingredients:
 
-1.      Haunch of a buck South African Wheezing Gazelle suffering from dropsy (if this in not available you can use ½ lb lean ground beef or bison burger plus one lb of Italian sausage).
-2.      3 tablespoons of Himalayan snake orchid seed oil or olive oil, whichever is more abundant at your native market.
-3.      Ground Kudsu or 1-2 tsp cumin
-4.      Goitered thyroid gland of a greater Kudu or 1 onion, chopped
-5.      Juice from an Amazon Death Pickle (not too much!) or juice from 1 ½ lemons
-6.      A branch of Indian Bitterbush watered only with tiger whiz or 1 rosemary cutting
-7.      The rendered fat of a thousand tarartula wasps or 1-2 cans of Cambell’s Cream of Mushroom soup
-8.      3 Jack Rabbit turds or 2 cloves of garlic
-9.      Camel dung that has been rolled at least a cubit by a virgin dung beetle or 3-4 lbs of potatoes, chopped.           
-10.  The flowers from a carrion plant grown in tapir poo or 1 – 1 ½ cups chopped broccoli
-11.  Owl pellets from a dyspeptic Himalayan Swamp Owl or 1 cup fresh or canned string beans
-12.  Tips cut from 5 starfish legs or ½ cup of canned or fresh corn
-13.  Earwax globs from 20 Slovenian peasant children or ½-1 cup fresh or frozen peas
-14.  A handful of whale lice or ½ cup chopped carrots
-15.  Musk gland contents from a sexually ambiguous wolverine or 1-1 ½ cups grated cheddar cheese (Note: Musk gland from a wolverine that is secure in its sexual identity is too strong!)
-16.  Refrigerator leftovers- in the beginning this ingredient was actually whatever the royal cook could scrape from the dungeon floor after the prisoners had died or were dragged off for beheading. Over time, as this recipe found its way into the hands of commoners who did not possess dungeons, the scrapings from the outhouse floor then the back of the ice box were substituted.
+- Haunch of a buck South African Wheezing Gazelle suffering from dropsy (if this in not available you can use ½ lb lean ground beef or bison burger plus one lb of Italian sausage).
+- 3 tablespoons of Himalayan snake orchid seed oil or olive oil, whichever is more abundant at your native market.
+- Ground Kudsu or 1-2 tsp cumin
+- Goitered thyroid gland of a greater Kudu or 1 onion, chopped
+- Juice from an Amazon Death Pickle (not too much!) or juice from 1 ½ lemons
+- A branch of Indian Bitterbush watered only with tiger whiz or 1 rosemary cutting
+- The rendered fat of a thousand tarartula wasps or 1-2 cans of Cambell’s Cream of Mushroom soup
+- 3 Jack Rabbit turds or 2 cloves of garlic
+- Camel dung that has been rolled at least a cubit by a virgin dung beetle or 3-4 lbs of potatoes, chopped.           
+- The flowers from a carrion plant grown in tapir poo or 1 – 1 ½ cups chopped broccoli
+- Owl pellets from a dyspeptic Himalayan Swamp Owl or 1 cup fresh or canned string beans
+- Tips cut from 5 starfish legs or ½ cup of canned or fresh corn
+- Earwax globs from 20 Slovenian peasant children or ½-1 cup fresh or frozen peas
+- A handful of whale lice or ½ cup chopped carrots
+- Musk gland contents from a sexually ambiguous wolverine or 1-1 ½ cups grated cheddar cheese (Note: Musk gland from a wolverine that is secure in its sexual identity is too strong!)
+- Refrigerator leftovers- in the beginning this ingredient was actually whatever the royal cook could scrape from the dungeon floor after the prisoners had died or were dragged off for beheading. Over time, as this recipe found its way into the hands of commoners who did not possess dungeons, the scrapings from the outhouse floor then the back of the ice box were substituted.
 
 For cooking, an engine fire, funeral pyre, nuclear reactor fire, magma extrusion and smelting oven have all been used at one time or another with general success. Preheat to 350 degrees.
 
