@@ -6,12 +6,12 @@ layout: home
     <div class="row post">
       <div class="col-3" style='min-height: 25vw; background: #999; background-position: center; text-align: center;background-size: cover; padding: 30px;'>
           <h4
-            <a class="post-link" style="margin-top: 50%; background: {% if post.highlight %}{{ post.highlight }}{% else %}rgba(255,255,255,1){% endif %}; text-align: center; display: inline-block; padding: 10px" href="/">GONEWANDERING</a>
+            <a class="post-link" style="position: absolute; bottom: 50%; width: 100%; left: 0; background: {% if post.highlight %}{{ post.highlight }}{% else %}rgba(255,255,255,1){% endif %}; text-align: center; display: inline-block; padding: 20px" href="/">GONEWANDERING<br>Lindsay Silver</a>
           </h4>
       </div>
     {% for post in site.posts %}
         <div class="col-3 random" style='min-height: 25vw; background: url("{{ post.image }}"); background-position: center; text-align: center;background-size: cover; padding: 30px;'>
-              <a class="post-link random highlight" style="margin-top: 50%; color: {% if post.highlightColor %}{{ post.highlightColor }}{% else %}initial{% endif %}; background-color: {% if post.highlight %}{{ post.highlight }}{% else %}initial{% endif %}; text-align: center; display: inline-block; padding: 10px" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              <a class="post-link random highlight" style="position: absolute; bottom: 10%; width: 100%; left: 0; color: {% if post.highlightColor %}{{ post.highlightColor }}{% else %}initial{% endif %}; background-color: {% if post.highlight %}{{ post.highlight }}{% else %}initial{% endif %}; text-align: center; display: inline-block; padding: 20px" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </div>
     {% endfor %}
     </div>
