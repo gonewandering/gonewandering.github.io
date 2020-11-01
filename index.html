@@ -1,17 +1,53 @@
 ---
-layout: default
+layout: home
 ---
 
-<div class="container post-list">
-    {% for post in site.posts %}
+<div class="container-fluid post-list">
     <div class="row post">
-        <div class="col-xs-12">
-            <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </h2>
-            <article>{{ post.excerpt }}</article>
-            <small class="meta">{{ post.location }} / {{ post.date | date: "%b %-d, %Y" }} in {{ post.categories | | array_to_sentence_string }}</small>
+      <div class="col-3" style='min-height: 25vw; background: #999; background-position: center; text-align: center;background-size: cover; padding: 30px;'>
+          <h4
+            <a class="post-link" style="margin-top: 50%; background: {% if post.highlight %}{{ post.highlight }}{% else %}rgba(255,255,255,1){% endif %}; text-align: center; display: inline-block; padding: 10px" href="/">GONEWANDERING</a>
+          </h4>
+      </div>
+    {% for post in site.posts %}
+        <div class="col-3 random" style='min-height: 25vw; background: url("{{ post.image }}"); background-position: center; text-align: center;background-size: cover; padding: 30px;'>
+              <a class="post-link random highlight" style="margin-top: 50%; color: {% if post.highlightColor %}{{ post.highlightColor }}{% else %}initial{% endif %}; background-color: {% if post.highlight %}{{ post.highlight }}{% else %}initial{% endif %}; text-align: center; display: inline-block; padding: 10px" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </div>
-    </div>
     {% endfor %}
+    </div>
 </div>
+
+<script>
+
+  function rCol() {
+    let hsl = []
+
+    hsl.push(Math.round(Math.random() * 360))
+    hsl.push(Math.round(Math.random() * 100))
+    hsl.push(Math.round(Math.random() * 100))
+
+    return hsl
+  }
+
+  function setBg(dom) {
+    let cols = document.querySelectorAll(dom)
+
+    for (let c in cols) {
+      let col = cols[c]
+
+      if (!col.style || !col.style.backgroundColor || col.style.backgroundColor == 'initial' || col.style.backgroundColor == 'rgba(255, 255, 255)') {
+        let hsl = rCol()
+        let hslStr = `hsl(${hsl[0]}, ${hsl[1]}%, ${hsl[2]}%)`
+
+        col.style.backgroundColor = hslStr
+
+        if (hsl[2] < 50) {
+          col.style.color = 'white'
+        }
+      }
+    }
+  }
+
+  setBg('.random')
+
+</script>

@@ -4,6 +4,9 @@ title:  "Cinotes and Cephalopods"
 date:   2014-12-26 08:40:10
 categories: travel
 location: Tulum, Mexico
+image: "/assets/posts/whales.jpg"
+highlight: "rgb(122, 116, 92)"
+highlightColor: "white"
 ---
 There are places that deceive you. From the outside they look beat up, dented, sodden, but when you get close you realize, like opening a dusty rock to discover a glittering geode, that the grit is a front, intended to disguise the intricate details that are hidden within. The southern coast of Mexico is one such place.
 

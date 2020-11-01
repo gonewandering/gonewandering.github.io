@@ -4,6 +4,9 @@ title:  "Coming home for Thanksgiving"
 date:   2016-11-25 08:40:10
 categories: travel
 location: Ferndale, CA
+image: "/assets/posts/ferndale.jpg"
+highlight: "rgb(57, 50, 10)"
+highlightColor: "white"
 ---
 Living in New York is refreshing. The city is built around highs and lows, and living there, constantly beating the tough moments or stumbling into new ones, has been one of the most rewarding things I've done.
 

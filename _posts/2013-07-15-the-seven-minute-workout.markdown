@@ -4,9 +4,12 @@ title:  "The Seven Minute Workout App"
 date:   2013-07-15 08:40:10
 categories: making
 location: San Francisco
+image: "/assets/posts/7min.png"
+highlight: "rgb(255,0,0)"
+highlightColor: "white"
 ---
 
-First of all, I did not come up with this workout. I got all of my information from a NY Times article (link), that in turn got the idea from the American Journal of Sports Medicine. The real kudos go to them. 
+First of all, I did not come up with this workout. I got all of my information from a NY Times article (link), that in turn got the idea from the American Journal of Sports Medicine. The real kudos go to them.
 
 I did however, really want to try it, and had no good way to time myself. So, a couple weeks ago (on a Wednesday night), I built a way, and on Thursday morning (at 11:47AM) I shared it on Hacker News.
 
